@@ -10,22 +10,48 @@ Konnichiwa! 👋
 
 <h4 align="left">I'm always looking for new challenges and opportunities to learn and grow! 💡</h4>
 
-<div style="display: flex; align-items: center;">
-    <p align="left">
+<div dir="auto">
+    <p align="left" dir="auto" style="width: 50%;float: left;">
         Need some freelance work done?
         💼✨ Irasshaimase! Let's get it done! ✨<br>
-        <a href="zenitsu5426@gmail.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+        <a href="/HWaqarKhan/hwaqarKhan/blob/main/zenitsu5426@gmail.com">
+            <img src="https://camo.githubusercontent.com/43319484caede582e19553136e6d2dbc4c07c24d00149bbe5ea72b154e72cbe8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d474d41494c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d443134383336266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="20" alt="gmail logo" data-canonical-src="https://img.shields.io/static/v1?message=GMAIL&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
         </a>
-        <a href="https://www.linkedin.com/in/hafiz-waqar-khan/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+        <a href="https://www.linkedin.com/in/hafiz-waqar-khan/" rel="nofollow">
+            <img src="https://camo.githubusercontent.com/4b17bf96ec09910d620801bf4537933731403ed2e8dca4bbf973ace4ae65ae4f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="20" alt="linkedin logo" data-canonical-src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
         </a>
-        <a href="https://discord.com/users/571999700585283588" target="_blank">
-             <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
+        <a href="https://discord.com/users/571999700585283588" rel="nofollow">
+             <img src="https://camo.githubusercontent.com/47fef7bebaa09e93be37bccd2ddf1da03323e5713906808ce34136f2acd31b66/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d446973636f7264266c6f676f3d646973636f7264266c6162656c3d26636f6c6f723d373238394441266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="20" alt="discord logo" data-canonical-src="https://img.shields.io/static/v1?message=Discord&amp;logo=discord&amp;label=&amp;color=7289DA&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
         </a>
     </p>
-    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="max-width: 50%; float: right; max-height:50%">
+    <animated-image data-catalyst="" style="width: 50%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43892a877ae5e107109d5ee96d4d5e2c7bd393046e739050081a2ffbb76e0492/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7750794d4d51314e57706d66652f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/43892a877ae5e107109d5ee96d4d5e2c7bd393046e739050081a2ffbb76e0492/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7750794d4d51314e57706d66652f67697068792e676966" alt="Anime GIF" data-canonical-src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" style="max-width: 50%; display: inline-block;width: 50%;float: right;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/43892a877ae5e107109d5ee96d4d5e2c7bd393046e739050081a2ffbb76e0492/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7750794d4d51314e57706d66652f67697068792e676966" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Anime GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/43892a877ae5e107109d5ee96d4d5e2c7bd393046e739050081a2ffbb76e0492/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7750794d4d51314e57706d66652f67697068792e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="500" height="375"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Anime GIF" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Anime GIF">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Anime GIF in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/43892a877ae5e107109d5ee96d4d5e2c7bd393046e739050081a2ffbb76e0492/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7750794d4d51314e57706d66652f67697068792e676966" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span>
+      </animated-image>
 </div>
+
 
 <h3 align="left">🛠 Language and Tools</h3>
 
