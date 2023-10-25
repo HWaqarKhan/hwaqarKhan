@@ -28,7 +28,7 @@ Konnichiwa! 👋
         <a href="https://discord.com/users/571999700585283588" target="_blank">
              <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
         </a>
-    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="transform: translate(550px,-200px) !important; max-width:50%; width:50%;">
+    <!-- <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="transform: translate(550px,-200px) !important; max-width:50%; width:50%;"> -->
     </p>
 </div>
 
@@ -60,8 +60,8 @@ Konnichiwa! 👋
 
 <h3 align="left">📈 My GitHub Stats :</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;" >
-<img  src="https://github-readme-stats.vercel.app/api?username=HWaqarKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="100%" alt="stats graph" style="margin:auto;" />
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=HWaqarKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" width="100%" alt="stats graph" style="margin:auto;" />
 </div>
 
 <div style="display: flex; align-items: center; max-width:80%; margin:auto;">
