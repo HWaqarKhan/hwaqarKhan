@@ -11,14 +11,14 @@ Konnichiwa! 👋
 
 ###
 
-<h4 align="left">I'm always looking for new challenges and opportunities to learn and grow! 💡</h4>
+<h4 align="left" style="width:50%">I'm always looking for new challenges and opportunities to learn and grow! 💡</h4>
 
 <div style="display: flex; align-items: center;">
-    <p align="left">
-        Need some freelance work done?
+    <p align="left" style="font-size: 18px; width:50%;">
+        Need some freelance work done?💼
         <br>
-        💼✨ Irasshaimase! Let's get it done! ✨<br>
-        <br><br>
+        ✨ Irasshaimase! Let's get it done! ✨<br>
+        <br>
         <a href="zenitsu5426@gmail.com" target="_blank">
             <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
         </a>
@@ -29,7 +29,7 @@ Konnichiwa! 👋
              <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
         </a>
     </p>
-    <div align="right" style="margin-top:-80px">
+    <div align="right" style="margin-top:-110px; width:50%;">
     <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="width: 60%; float: right; height:50%">
     </div>
 </div>
@@ -62,14 +62,14 @@ Konnichiwa! 👋
 
 <h3 align="left">📈 My GitHub Stats :</h3>
 
-<div align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=HWaqarKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div style="display: flex; justify-content: space-between; align-items: center;" >
+<img  src="https://github-readme-stats.vercel.app/api?username=HWaqarKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="100%" alt="stats graph" style="margin:auto;" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; max-width:80%; margin:auto;">
   
-  <img src="https://streak-stats.demolab.com?user=HWaqarKhan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HWaqarKhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=HWaqarKhan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" width="100%" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HWaqarKhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="100%" alt="languages graph"  />
 </div>
 
 
