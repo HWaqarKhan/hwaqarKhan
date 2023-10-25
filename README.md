@@ -1,5 +1,5 @@
 <!-- <div style="display: flex; align-items: center;">
-  <img height="150" src="https://lanyard.kyrie25.me/api/571999700585283588?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&animated=:true"  /><img height="120" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.myanimelist.net%2Fui%2FOK6W_koKDTOqqqLDbIoPAhu283W6wtDKEzbI53W41bQ&f=1&nofb=1&ipt=a86e3ea05aa45c8b858b12bb5986704a97b4d5e0d31d0da74efe6eaf22d24b45&ipo=images" style="max-width: 50%; float: right;" /> 
+  <img height="150" src="https://lanyard.kyrie25.me/api/571999700585283588?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&animated=:true"  /><img height="120" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" style="max-width: 50%; float: right;" /> 
 </div> -->
 
 <img height="120" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.myanimelist.net%2Fui%2FOK6W_koKDTOqqqLDbIoPAhu283W6wtDKEzbI53W41bQ&f=1&nofb=1&ipt=a86e3ea05aa45c8b858b12bb5986704a97b4d5e0d31d0da74efe6eaf22d24b45&ipo=images" style="max-width: 50%; float: right;" />
@@ -24,7 +24,7 @@ Konnichiwa! 👋
              <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
         </a>
     </p>
-    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="max-width: 50%; float: right;">
+    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="max-width: 50%; float: right; max-height:50%">
 </div>
 
 <h3 align="left">🛠 Language and Tools</h3>
