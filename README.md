@@ -28,7 +28,7 @@ Konnichiwa! 👋
         <a href="https://discord.com/users/571999700585283588" target="_blank">
              <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
         </a>
-    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="width: 60%; float: right; height:50% margin-top: -150px; transform: translate(-40px, -140px);">
+    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="transform: translate(350px,-100px) !important; max-width:50%">
     </p>
     <div align="right" style="margin-top: -150px; width:50%;">
     </div>
