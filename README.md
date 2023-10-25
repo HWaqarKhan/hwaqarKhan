@@ -61,13 +61,13 @@ Konnichiwa! 👋
 <h3 align="left">📈 My GitHub Stats :</h3>
 
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=HWaqarKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" width="100%" alt="stats graph" style="margin:auto;" />
+<img  src="https://github-readme-stats.vercel.app/api?username=HWaqarKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" width="80%" alt="stats graph" />
 </div>
 
 <div >
 <!-- style="display: flex; align-items: center; max-width:80%; margin:auto;" -->
   
-  <img src="https://streak-stats.demolab.com?user=HWaqarKhan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="250" width="50%" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=HWaqarKhan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="250" width="80%" alt="streak graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HWaqarKhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="50%" alt="languages graph"  style="margin:auto;/> -->
 </div>
 
