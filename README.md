@@ -30,7 +30,7 @@ Konnichiwa! 👋
         </a>
     </p>
     <div align="right" style="margin-top: -150px; width:50%;">
-    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="width: 60%; float: right; height:50%">
+    <img src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif" alt="Anime GIF" style="width: 60%; float: right; height:50% margin-top: -150px; transform: translate(-40px, -140px);">
     </div>
 </div>
 
@@ -66,7 +66,7 @@ Konnichiwa! 👋
 <img  src="https://github-readme-stats.vercel.app/api?username=HWaqarKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="100%" alt="stats graph" style="margin:auto;" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; max-width:80%; margin:auto;">
+<div style="display: flex; align-items: center; max-width:80%; margin:auto;">
   
   <img src="https://streak-stats.demolab.com?user=HWaqarKhan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="250" width="50%" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HWaqarKhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="50%" alt="languages graph"  style="margin:auto;/>
